@@ -1,6 +1,7 @@
 <template>
   <div>
     <h1>babylonjs项目</h1>
+
     <canvas class="bjsCanvas" ref="bjsCanvas" />
   </div>
 </template>
@@ -29,3 +30,4 @@ h1 {
   color: rgb(173, 34, 34);
 }
 </style>
+
